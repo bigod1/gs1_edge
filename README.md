@@ -1,13 +1,14 @@
 # gs1_edge
 
--Uma breve descrição do problema de saúde abordado.
+Uma breve descrição do problema de saúde abordado.
+
   O porblema aborado foi a agilidade e priorização do atendimento aos pacientes mais graves que chegam nos hospitais.
   
   Nem sempre o primeiro paciente a chegar é o mais urgente para ser atendido, uma pessoa com uma simples dor de cabeça 
   poderia esperar um pouco mais enquanto pacientes mais graves como um corte aberto ou ate uma parada cardiaca.
 
   
--Uma visão geral da solução proposta.
+Uma visão geral da solução proposta.
   Criei essa solução em  conjunto com a diciplina de Computational Thinking with Python, minha proposta foi desenvolver um sistema
   que pudesse definir o tempo maximo que um paciente poderia esperar de acordo com a gravidade de sua enfermidade.
   
