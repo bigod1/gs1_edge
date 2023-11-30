@@ -19,7 +19,7 @@ Uma visão geral da solução proposta.
   o medico saberia exatamente qual o paciente que é deveria ser chamado no momento.
 
 
--Instruções claras sobre como configurar e executar a aplicação.
+Instruções claras sobre como configurar e executar a aplicação.
   Quando iniciado o circuito verificar se o potenciometro esta no maximo, depois sera necessario apenas precionar o botão que ja sera mostrado ao
   usuario qual sera o proximo paciente.
 
